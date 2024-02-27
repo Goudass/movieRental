@@ -1,5 +1,5 @@
 Movie Rental Management System
-\nWelcome to the Movie Rental Management System, a comprehensive command-line application designed to facilitate the management of a movie rental database. This application allows for easy interactions with a dataset of movies through a variety of user operations such as adding, editing, searching, and sorting movies, as well as managing data import and export.
+- Welcome to the Movie Rental Management System, a comprehensive command-line application designed to facilitate the management of a movie rental database. This application allows for easy interactions with a dataset of movies through a variety of user operations such as adding, editing, searching, and sorting movies, as well as managing data import and export.
 
 Features
 - Load and Save Data: Automatically loads movie data from a default file at startup and saves changes upon exiting.
