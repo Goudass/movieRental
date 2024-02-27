@@ -1,0 +1,51 @@
+Id,name,prDate,director,type
+1,The Matrix,04-02-1999,Lana Wachowski,Sci-Fi
+2,Shawshank Redemption,23-09-1994,Frank Darabont,Drama
+3,Pulp Fiction,14-10-1994,Quentin Tarantino,Crime
+4,Forrest Gump,06-07-1994,Robert Zemeckis,Drama
+5,The Dark Knight,18-07-2008,Christopher Nolan,Action
+6,Schindler's List,04-12-1993,Steven Spielberg,History
+7,Inglourious Basterds,20-08-2009,Quentin Tarantino,War
+8,Spirited Away,20-07-2001,Hayao Miyazaki,Animation
+9,The Godfather,14-03-1972,Francis Ford Coppola,Crime
+10,The Shawshank Redemption,23-09-1994,Frank Darabont,Drama
+11,The Silence of the Lambs,30-01-1991,Jonathan Demme,Thriller
+12,Interstellar,26-10-2014,Christopher Nolan,Sci-Fi
+13,The Departed,06-10-2006,Martin Scorsese,Crime
+14,The Great Gatsby,10-05-2013,Baz Luhrmann,Drama
+15,The Green Mile,10-12-1999,Frank Darabont,Crime
+16,The Social Network,24-09-2010,David Fincher,Drama
+17,Citizen Kane,01-05-1941,Orson Welles,Mystery
+18,Fight Club,15-10-1999,David Fincher,Drama
+19,The Lion King,24-06-1994,Roger Allers,Animation
+20,Saving Private Ryan,24-07-1998,Steven Spielberg,War
+21,The Matrix Reloaded,15-05-2003,Lana Wachowski,Sci-Fi
+22,The Usual Suspects,16-08-1995,Bryan Singer,Crime
+23,The Godfather: Part II,20-12-1974,Francis Ford Coppola,Crime
+24,Avatar,18-12-2009,James Cameron,Action
+25,A Beautiful Mind,04-01-2002,Ron Howard,Biography
+26,The Dark Knight Rises,20-07-2012,Christopher Nolan,Action
+27,Gladiator,05-05-2000,Ridley Scott,Action
+28,Titanic,19-12-1997,James Cameron,Drama
+29,Braveheart,24-05-1995,Mel Gibson,Biography
+30,The Intouchables,02-11-2011,Olivier Nakache/Eric Toledano,Comedy
+31,The Wolf of Wall Street,25-12-2013,Martin Scorsese,Biography
+32,Amélie,25-04-2001,Jean-Pierre Jeunet,Comedy
+33,The Pursuit of Happyness,15-12-2006,Gabriele Muccino,Drama
+34,The Grand Budapest Hotel,06-03-2014,Wes Anderson,Adventure
+35,La La Land,09-12-2016,Damien Chazelle,Drama
+36,Deadpool,09-02-2016,Tim Miller,Action
+37,The Revenant,25-12-2015,Alejandro González Iñárritu,Adventure
+38,For a Few Dollars More,18-05-1967,Sergio Leone,Western
+39,The Good and the Bad and the Ugly,29-12-1966,Sergio Leone,Western
+40,A Clockwork Orange,02-02-1972,Stanley Kubrick,Crime
+41,Blade Runner,25-06-1982,Ridley Scott,Sci-Fi
+42,The Silence of the Lambs,30-01-1991,Jonathan Demme,Thriller
+43,The Sixth Sense,06-08-1999,M. Night Shyamalan,Drama
+44,The Breakfast Club,15-02-1985,John Hughes,Comedy
+45,The Shining,23-05-1980,Stanley Kubrick,Drama
+46,The Terminator,26-10-1984,James Cameron,Action
+47,Goodfellas,19-09-1990,Martin Scorsese,Crime
+48,The Prestige,20-10-2006,Christopher Nolan,Drama
+49,American History X,20-10-1998,Tony Kaye,Crime
+50,Jurassic Park,09-06-1993,Steven Spielberg,Adventure

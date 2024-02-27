@@ -1,0 +1,8 @@
+com\movies\actions\ActionsManager$1.class
+com\movies\service\impl\MovieActions.class
+com\movies\service\Actions.class
+com\movies\model\GeneralMovie.class
+com\movies\enums\Columns.class
+com\movies\enums\Options.class
+com\movies\model\schema\Movie.class
+com\movies\actions\ActionsManager.class
